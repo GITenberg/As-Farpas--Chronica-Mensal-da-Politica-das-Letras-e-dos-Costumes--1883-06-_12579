@@ -1,5 +1,8 @@
 _repo: As-Farpas--Chronica-Mensal-da-Politica-das-Letras-e-dos-Costumes--1883-06-_12579
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editors:
   - agent_name: Ortigão, José Duarte Ramalho
@@ -29,6 +32,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jos%C3%A9_Maria_E%C3%A7a_de_Queiroz
     - http://pt.wikipedia.org/wiki/E%C3%A7a_de_Queiroz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12579#As-Farpas--Chronica-Mensal-da-Politica-das-Letras-e-dos-Costumes--1883-06-
 gutenberg_bookshelf: PT Política e Sociedade
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
